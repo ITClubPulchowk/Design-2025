@@ -5,9 +5,9 @@
 - The pull request will be accepted if the solution does not affect other's submission
 
 # Directory Structure
-Day0/<username>/assignment1/<designFile>.ai\
-Day0/<username>/assignment2/<designFile>.ai\
-Day1/<username>/assignment2/<designFile>.ai\
+Day0/username/assignment1/designFile.ai\
+Day0/username/assignment2/designFile.ai\
+Day1/username/assignment1/designFile.ai\
 .\
 .\
 .\

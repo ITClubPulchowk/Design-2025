@@ -11,7 +11,7 @@ Day1/<username>/assignment2/<designFile>.ai\
 .\
 .\
 .\
-.\
+.
 
 <username>   : You name or GitHub username\
 <design>     : You can name the illustrator file as you wish.\
